@@ -1,2 +1,2 @@
-# Java_Basic
+# Java Programming
 Practice basic Java programming
