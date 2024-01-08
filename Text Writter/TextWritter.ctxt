@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=TextWritter
+comment0.text=\n\ TextWritter\ is\ a\ class\ that\ will\ store\ and\ display\ any\ text\ string.\n\n\ @author\ Celine\n\ @version1/8/2024\n
+comment1.params=
+comment1.target=TextWritter()
+comment2.params=inputText
+comment2.target=TextWritter(java.lang.String)
+comment3.params=inputText
+comment3.target=void\ setTextToDisplay(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getTextToDisplay()
+comment5.params=
+comment5.target=void\ display()
+numComments=6
