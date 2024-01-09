@@ -18,15 +18,15 @@ public class CircleDriver
         c1.setRadius(inputRadius);
         System.out.println("Your entered radius: " + inputRadius);
         System.out.println("The circumference is " + c1.getCircumference());
-        System.out.println("The circumference is " + c1.getArea());
-        System.out.println("The circumference is " + c1.getSurfaceArea());
+        System.out.println("The area is " + c1.getArea());
+        System.out.println("The surface area is " + c1.getSurfaceArea());
         
         System.out.print("Enter the radius of another circle: ");
         inputRadius = keyboard.nextDouble();
         c2 = new Circle(inputRadius);
         System.out.println("Your entered radius: " + inputRadius);
         System.out.println("The circumference is " + c2.getCircumference());
-        System.out.println("The circumference is " + c2.getArea());
-        System.out.println("The circumference is " + c2.getSurfaceArea());
+        System.out.println("The area is " + c2.getArea());
+        System.out.println("The surface area is " + c2.getSurfaceArea());
     }
 }

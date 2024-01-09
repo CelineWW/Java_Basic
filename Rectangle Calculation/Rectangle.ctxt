@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Rectangle
+comment0.text=\n\ Rectangle\ is\ a\ class\ calculates\ perimeter\ and\ surfacer\ area\n\n\ @author\ Celine\n\ @version\ 1.0\n
+comment1.params=
+comment1.target=Rectangle()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Circle\n
+comment2.params=w\ h
+comment2.target=Rectangle(double,\ double)
+comment3.params=w\ h
+comment3.target=void\ setRectangle(double,\ double)
+comment3.text=\n\ setRectangle\ method\ sets\ the\ width\ and\ height,\n\ then\ calculate\ other\ instance\ variables\n\n\ @param\ \ width\ w\ and\ height\ h\ \n
+comment4.params=
+comment4.target=double\ getWidth()
+comment4.text=\n\ getwidth\ method\ retrieves\ the\ width\n\n\ @return\ a\ double\ value\ containing\ width\n
+comment5.params=
+comment5.target=double\ getHeight()
+comment5.text=\n\ getHeight\ method\ retrieves\ the\ height\n\n\ @return\ a\ double\ value\ containing\ height\n
+comment6.params=
+comment6.target=double\ getPerimeter()
+comment6.text=\n\ getPerimeter\ method\ retrieves\ the\ perimeter\n\n\ @return\ a\ double\ value\ containing\ perimeter\n
+comment7.params=
+comment7.target=double\ getSurfaceArea()
+comment7.text=\n\ getSurfaceArea\ method\ retrieves\ the\ surface\ area\n\n\ @return\ a\ double\ value\ containing\ surface\ area\ \n
+numComments=8
