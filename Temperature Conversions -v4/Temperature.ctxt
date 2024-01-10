@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Temperature
+comment0.text=\n\ Temperature\ stores\ a\ termperature\ in\ Fahrenheit,\ Celisius\n\ and\ Kelvin\ scales.\n\ @author\ Celine\n\ @version\ 2.0\n
+comment1.params=type\ degrees
+comment1.target=Temperature(java.lang.String,\ double)
+comment1.text=\n\ This\ constructors\ for\ Temperature\ sets\ the\ temperature\ \n\ values\ to\ the\ value\ in\ degrees,\ based\ on\ type\n\ \n\ @param\ type\ temperature\ scale\ to\ use\n\ @param\ degrees\ \n
+comment2.params=temperatureType
+comment2.target=boolean\ isTypeValid(java.lang.String)
+comment3.params=temperatureType\ temperature
+comment3.target=boolean\ isTemperatureValid(java.lang.String,\ double)
+comment4.params=
+comment4.target=double\ getDegreesCelsius()
+comment4.text=\n\ getDegreesCelsius\ retrieves\ the\ Celsius\ temperature\ value\n\ @return\ a\ double\ value\ containing\ the\ Celsiu\ temperature\n
+comment5.params=
+comment5.target=double\ getDegreesKelvin()
+comment5.text=\n\ getDegreesKelvin\ retrieves\ the\ Kelvin\ temperature\ value\n\ @return\ a\ double\ value\ containing\ the\ Kelvin\ temperature\n
+comment6.params=
+comment6.target=double\ getDegreesFahrenheit()
+comment6.text=\n\ getDegreesFahrenheit\ retrieves\ the\ Fahrenheit\ temperature\ value\n\ @return\ a\ double\ value\ containing\ the\ Fahrenheit\ temperature\n
+comment7.params=degrees
+comment7.target=void\ setDegreesFahrenheit(double)
+comment7.text=\n\ The\ setDegreesFahrenheit\ method\ sets\ the\ Fahrenheit\ temperature\ value\n\ @param\ degrees\ The\ Fahrenheit\ value\ to\ store\n
+comment8.params=degrees
+comment8.target=void\ setDegreesCelsius(double)
+comment9.params=degrees
+comment9.target=void\ setDegreesKelvin(double)
+numComments=10
