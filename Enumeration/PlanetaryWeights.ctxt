@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=PlanetaryWeights
+comment0.text=\n\ PlanetaryWeights\ takes\ in\ a\ user's\ weight\ and\ returns\n\ what\ that\ user\ would\ weigh\ on\ the\ different\ planets\ in\ the\n\ solar\ system.\ It\ uses\ the\ enumeration\ Planet.\n\ \n\ @author\ Merrill\ Hall\n\ @version\ 1.0\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Planet
+comment0.text=\n\ Enumeration\ class\ Planet\ -\ lists\ the\ planets\ of\ the\ solar\ system\ and\ \n\ their\ weight\ multiples\ relative\ to\ Earth.\n\ \n\ @author\ Merrill\ Hall\n\ @version\ 1.0\n
+comment1.params=relativeWeight
+comment1.target=Planet(double)
+comment2.params=
+comment2.target=double\ getRelativeWeight()
+comment3.params=weight
+comment3.target=double\ getWeight(double)
+numComments=4
